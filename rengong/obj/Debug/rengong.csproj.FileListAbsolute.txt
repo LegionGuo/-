@@ -1,0 +1,31 @@
+c:\users\heng-pc\documents\visual studio 2013\Projects\rengong\rengong\bin\Debug\rengong.exe.config
+c:\users\heng-pc\documents\visual studio 2013\Projects\rengong\rengong\bin\Debug\rengong.exe
+c:\users\heng-pc\documents\visual studio 2013\Projects\rengong\rengong\bin\Debug\rengong.pdb
+c:\users\heng-pc\documents\visual studio 2013\Projects\rengong\rengong\obj\Debug\rengong.csprojResolveAssemblyReference.cache
+c:\users\heng-pc\documents\visual studio 2013\Projects\rengong\rengong\obj\Debug\MainWindow.baml
+c:\users\heng-pc\documents\visual studio 2013\Projects\rengong\rengong\obj\Debug\MainWindow.g.cs
+c:\users\heng-pc\documents\visual studio 2013\Projects\rengong\rengong\obj\Debug\App.g.cs
+c:\users\heng-pc\documents\visual studio 2013\Projects\rengong\rengong\obj\Debug\rengong_MarkupCompile.cache
+c:\users\heng-pc\documents\visual studio 2013\Projects\rengong\rengong\obj\Debug\rengong.g.resources
+c:\users\heng-pc\documents\visual studio 2013\Projects\rengong\rengong\obj\Debug\rengong.Properties.Resources.resources
+c:\users\heng-pc\documents\visual studio 2013\Projects\rengong\rengong\obj\Debug\rengong.csproj.GenerateResource.Cache
+c:\users\heng-pc\documents\visual studio 2013\Projects\rengong\rengong\obj\Debug\rengong.exe
+c:\users\heng-pc\documents\visual studio 2013\Projects\rengong\rengong\obj\Debug\rengong.pdb
+C:\Users\Heng-PC\Documents\Visual Studio 2013\Projects\rengong\rengong\obj\Debug\PopupWindow.baml
+C:\Users\Heng-PC\Documents\Visual Studio 2013\Projects\rengong\rengong\obj\Debug\PopupWindow.g.cs
+E:\rengong\rengong\bin\Debug\rengong.exe.config
+E:\rengong\rengong\bin\Debug\rengong.exe
+E:\rengong\rengong\bin\Debug\rengong.pdb
+E:\rengong\rengong\obj\Debug\rengong.csprojAssemblyReference.cache
+E:\rengong\rengong\obj\Debug\MainWindow.baml
+E:\rengong\rengong\obj\Debug\PopupWindow.baml
+E:\rengong\rengong\obj\Debug\MainWindow.g.cs
+E:\rengong\rengong\obj\Debug\PopupWindow.g.cs
+E:\rengong\rengong\obj\Debug\App.g.cs
+E:\rengong\rengong\obj\Debug\rengong_MarkupCompile.cache
+E:\rengong\rengong\obj\Debug\rengong.g.resources
+E:\rengong\rengong\obj\Debug\rengong.Properties.Resources.resources
+E:\rengong\rengong\obj\Debug\rengong.csproj.GenerateResource.cache
+E:\rengong\rengong\obj\Debug\rengong.csproj.CoreCompileInputs.cache
+E:\rengong\rengong\obj\Debug\rengong.exe
+E:\rengong\rengong\obj\Debug\rengong.pdb

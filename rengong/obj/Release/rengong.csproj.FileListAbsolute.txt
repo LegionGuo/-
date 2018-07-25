@@ -1,0 +1,16 @@
+E:\rengong\rengong\obj\Release\MainWindow.baml
+E:\rengong\rengong\obj\Release\PopupWindow.baml
+E:\rengong\rengong\obj\Release\MainWindow.g.cs
+E:\rengong\rengong\obj\Release\PopupWindow.g.cs
+E:\rengong\rengong\obj\Release\App.g.cs
+E:\rengong\rengong\obj\Release\rengong.Properties.Resources.resources
+E:\rengong\rengong\obj\Release\rengong.csproj.GenerateResource.cache
+E:\rengong\rengong\obj\Release\rengong.csproj.CoreCompileInputs.cache
+E:\rengong\rengong\bin\Release\EightDigital.exe.config
+E:\rengong\rengong\bin\Release\EightDigital.exe
+E:\rengong\rengong\bin\Release\EightDigital.pdb
+E:\rengong\rengong\obj\Release\rengong.csprojAssemblyReference.cache
+E:\rengong\rengong\obj\Release\EightDigital_MarkupCompile.cache
+E:\rengong\rengong\obj\Release\EightDigital.g.resources
+E:\rengong\rengong\obj\Release\EightDigital.exe
+E:\rengong\rengong\obj\Release\EightDigital.pdb
